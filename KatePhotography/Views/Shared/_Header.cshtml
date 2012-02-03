@@ -1,0 +1,14 @@
+﻿<header>
+    <div id="logindisplay">
+        @Html.Partial("_LogOnPartial")
+    </div>
+    <nav class="leftNavigation">
+        <ul class="mainNavigation">
+            <li>@Html.ActionLink("home", "Index", "Home")</li>
+            <li>@Html.ActionLink("about", "About", "Home")</li>
+            <li>@Html.ActionLink("albums", "Albums", "Home")</li>
+            <li>@Html.ActionLink("contact", "Contact", "Home")</li>
+        </ul>
+    </nav>
+	<img class="signature" src="@Url.Content("~/Images/Signature.png")" height="100" width="600" alt="signature" />
+</header>

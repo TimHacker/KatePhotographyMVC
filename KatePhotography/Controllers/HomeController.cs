@@ -19,5 +19,10 @@ namespace KatePhotography.Controllers
 		{
 			return View();
 		}
+
+		public ActionResult Contact()
+		{
+			return View();
+		}
 	}
 }
