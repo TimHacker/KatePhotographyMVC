@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatePhotography", "KatePhotography\KatePhotography.csproj", "{208C2D54-B535-4DC2-BCDC-1DBD8C7EABEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatePhotography.Tests", "KatePhotography.Tests\KatePhotography.Tests.csproj", "{9A94F88E-58A0-4AA1-A539-6F84CD97AF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208C2D54-B535-4DC2-BCDC-1DBD8C7EABEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208C2D54-B535-4DC2-BCDC-1DBD8C7EABEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208C2D54-B535-4DC2-BCDC-1DBD8C7EABEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208C2D54-B535-4DC2-BCDC-1DBD8C7EABEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A94F88E-58A0-4AA1-A539-6F84CD97AF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A94F88E-58A0-4AA1-A539-6F84CD97AF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A94F88E-58A0-4AA1-A539-6F84CD97AF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A94F88E-58A0-4AA1-A539-6F84CD97AF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
